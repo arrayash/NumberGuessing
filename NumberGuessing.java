@@ -212,7 +212,7 @@ public class NumberGuessing{
             }
         }
         System.out.println("your number " +add);
-        System.out.println("ku hila dala na");
+        
 
 
 
